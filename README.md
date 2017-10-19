@@ -12,36 +12,34 @@
 
 * <a href='#前言'>前言</a>
 * <a href='#目录'>目录</a>
-* <a href='#zl'>资料篇</a>
-  * <a href='#jszd'>技术站点</a>
-  * <a href='#bksj'>必看书籍</a>
-  * <a href='#dnbk'>大牛博客</a>
-* <a href='#github'>GitHub篇</a>
-* <a href='#gj'>工具篇</a>
-  * <a href='#ptgj'>平台工具</a>
-  * <a href='#cygj'>常用工具</a>
-  * <a href='#dsffw'>第三方服务</a>
-  * <a href='#pcxg'>爬虫相关(好玩的工具)</a>
-  * <a href='#aqxg'>安全相关</a>
-  * <a href='#web'>Web服务器性能/压力测试工具/负载均衡器</a>
-  * <a href='#dsjcl'>大数据处理/数据分析/分布式工具</a>
-  * <a href='#webqd'>Web前端</a>
-* <a href='#yy'>语言篇</a>
-  * <a href='#scala'>Scala</a>
-  * <a href='#java'>Java</a>
-  * <a href='#python'>Python</a>
-  * <a href='#swift'>Swift</a>
-  * <a href='#net'>.NET</a>
-  * <a href='#ccpp'>C & C++</a>
-  * <a href='#qt'>其他</a>
-  * <a href='#yxkfxg'>游戏开发相关</a>
-  * <a href='#rzjh'>日志聚合，分布式日志收集</a>
-  * <a href='#rtp'>RTP,实时传输协议与音视频</a>
+* <a href='#资料篇'>资料篇</a>
+  * <a href='#技术站点'>技术站点</a>
+  * <a href='#必看书籍'>必看书籍</a>
+  * <a href='#大牛博客'>大牛博客</a>
+* <a href='#GitHub篇'>GitHub篇</a>
+* <a href='#工具篇'>工具篇</a>
+  * <a href='#平台工具'>平台工具</a>
+  * <a href='#常用工具'>常用工具</a>
+  * <a href='#第三方服务'>第三方服务</a>
+  * <a href='#爬虫相关(好玩的工具)'>爬虫相关(好玩的工具)</a>
+  * <a href='#安全相关'>安全相关</a>
+  * <a href='#Web服务器性能/压力测试工具/负载均衡器'>Web服务器性能/压力测试工具/负载均衡器</a>
+  * <a href='#大数据处理/数据分析/分布式工具'>大数据处理/数据分析/分布式工具</a>
+  * <a href='#Web前端'>Web前端</a>
+* <a href='#语言篇'>语言篇</a>
+  * <a href='#Scala'>Scala</a>
+  * <a href='#Java'>Java</a>
+  * <a href='#Python'>Python</a>
+  * <a href='#Swift'>Swift</a>
+  * <a href='#.NET'>.NET</a>
+  * <a href='#C & C++'>C & C++</a>
+  * <a href='#其他'>其他</a>
+  * <a href='#游戏开发相关'>游戏开发相关</a>
+  * <a href='#日志聚合，分布式日志收集'>日志聚合，分布式日志收集</a>
+  * <a href='#RTP,实时传输协议与音视频'>RTP,实时传输协议与音视频</a>
 
-<span id='qy' />
 # 资料篇
 
-<span id='jszd' />
 ## 技术站点
 
 ### 在线学习
