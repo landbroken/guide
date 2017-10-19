@@ -387,43 +387,42 @@
 ## 大数据处理/数据分析/分布式工具
 <a href='#目录'>返回目录</a>
 
-| Name                   | Description                                                                                                                                          |
-|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hadoop：                | 分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。       |
-| Spark：                 | 大规模数据处理框架（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错 |
-| 除了Spark，其他几个不错的计算框架还有： | Kylin，Flink，Drill                                                                                                                                    |
-| Ceph:                  | Linux分布式文件系统（特点：无中心）                                                                                                                                 |
-| Storm：                 | 实时流数据处理，可以看下IBM的一篇介绍 （还有个Yahoo的S4，也是做流数据处理的）                                                                                                         |
-| Druid:                 | 实时数据分析存储系统                                                                                                                                           |
-| Ambari:                | 大数据平台搭建、监控利器；类似的还有CDH                                                                                                                                |
-| Tachyon：               | 分布式内存文件系统                                                                                                                                            |
-| Mesos：                 | 计算框架一个集群管理器，提供了有效的、跨分布式应用或框架的资源隔离和共享                                                                                                                 |
-| Impala：                | 新一代开源大数据分析引擎，提供Sql语义，比Hive强在速度上                                                                                                                      |
-| presto:                | facebook的开源工具，大数据分布式sql查询引擎                                                                                                                          |
-| SNAPPY：                | 快速的数据压缩系统，适用于Hadoop生态系统中                                                                                                                             |
-| Kafka:                 | 高吞吐量的分布式消息队列系统                                                                                                                                       |
-| ActiveMQ:              | 是Apache出品，最流行的，能力强劲的开源消息总线                                                                                                                           |
-| MQTT:                  | Message Queuing Telemetry Transport，消息队列遥测传输）是IBM开发的一个即时通讯协议，有可能成为物联网的重要组成部分                                                                         |
-| RabbitMQ：              | 记得OpenStack就是用的这个东西吧                                                                                                                                 |
-| ZeroMQ：                | 宣称是将分布式计算变得更简单，是个分布式消息队列，可以看下云风的一篇文章的介绍                                                                                                              |
-| 开源的日志收集系统：             | scribe、chukwa、kafka、flume。这有一篇对比文章                                                                                                                   |
-| Zookeeper：             | 可靠的分布式协调的开源项目                                                                                                                                        |
-| Databus：               | LinkedIn 实时低延迟数据抓取系统                                                                                                                                 |
-| 数据源获取：                 | Flume、Google Refine、Needlebase、ScraperWiki、BloomReach                                                                                                |
-| 序列化技术：                 | JSON、BSON、Thrift、Avro、Google Protocol Buffers                                                                                                        |
-| NoSql：                 | ScyllaDB（宣称是世界上最快的NoSql）、Apache Casandra、MongoDB、Apache CouchDB、Redis、BigTable、HBase、Hypertable、Voldemort、Neo4j                                      |
-| MapReduce相关：           | Hive、Pig、Cascading、Cascalog、mrjob、Caffeine、S4、MapR、Acunu、Flume、Kafka、Azkaban、Oozie、Greenplum                                                         |
-| 数据处理：                  | R、Yahoo! Pipes、Mechanical Turk、Solr/ Lucene、ElasticSearch、Datameer、Bigsheets、Tinkerpop                                                               |
-| NLP自然语言处理：             | Natural Language Toolkit、Apache OpenNLP、Boilerpipe、OpenCalais                                                                                        |
-| 机器学习：                  | TensorFlow（Google出品），WEKA、Mahout、scikits.learn、SkyTree                                                                                               |
-| 可视化技术：                 | GraphViz、Processing、Protovis、Google Fusion Tables、Tableau、Highcharts、EChats（百度的还不错）、Raphaël.js                                                       |
-| Kettle：                | 开源的ETL工具                                                                                                                                             |
-| Pentaho：               | 以工作流为核心的开源BI系统                                                                                                                                       |
-| Mondrian：              | 开源的Rolap服务器                                                                                                                                          |
-| Oozie：                 | 开源hadoop的工作流调度引擎，类似的还有：Azkaban                                                                                                                       |
-| 开源的数据分析可视化工具：          | Weka、Orange、KNIME                                                                                                                                    |
-| Cobar：                 | 阿里巴巴的MySql分布式中间件                                                                                                                                     |
-| 数据清洗：                  | data wrangler， Google Refine                                                                                                                         |
+| Name          | Description                                                                                                                                                                                   |
+|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hadoop：       | 分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。                                                |
+| Spark：        | 大规模数据处理框架（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错,除了Spark，其他几个不错的计算框架还有： Kylin，Flink，Drill |
+| Ceph:         | Linux分布式文件系统（特点：无中心）                                                                                                                                                                          |
+| Storm：        | 实时流数据处理，可以看下IBM的一篇介绍 （还有个Yahoo的S4，也是做流数据处理的）                                                                                                                                                  |
+| Druid:        | 实时数据分析存储系统                                                                                                                                                                                    |
+| Ambari:       | 大数据平台搭建、监控利器；类似的还有CDH                                                                                                                                                                         |
+| Tachyon：      | 分布式内存文件系统                                                                                                                                                                                     |
+| Mesos：        | 计算框架一个集群管理器，提供了有效的、跨分布式应用或框架的资源隔离和共享                                                                                                                                                          |
+| Impala：       | 新一代开源大数据分析引擎，提供Sql语义，比Hive强在速度上                                                                                                                                                               |
+| presto:       | facebook的开源工具，大数据分布式sql查询引擎                                                                                                                                                                   |
+| SNAPPY：       | 快速的数据压缩系统，适用于Hadoop生态系统中                                                                                                                                                                      |
+| Kafka:        | 高吞吐量的分布式消息队列系统                                                                                                                                                                                |
+| ActiveMQ:     | 是Apache出品，最流行的，能力强劲的开源消息总线                                                                                                                                                                    |
+| MQTT:         | Message Queuing Telemetry Transport，消息队列遥测传输）是IBM开发的一个即时通讯协议，有可能成为物联网的重要组成部分                                                                                                                  |
+| RabbitMQ：     | 记得OpenStack就是用的这个东西吧                                                                                                                                                                          |
+| ZeroMQ：       | 宣称是将分布式计算变得更简单，是个分布式消息队列，可以看下云风的一篇文章的介绍                                                                                                                                                       |
+| 开源的日志收集系统：    | scribe、chukwa、kafka、flume。这有一篇对比文章                                                                                                                                                            |
+| Zookeeper：    | 可靠的分布式协调的开源项目                                                                                                                                                                                 |
+| Databus：      | LinkedIn 实时低延迟数据抓取系统                                                                                                                                                                          |
+| 数据源获取：        | Flume、Google Refine、Needlebase、ScraperWiki、BloomReach                                                                                                                                         |
+| 序列化技术：        | JSON、BSON、Thrift、Avro、Google Protocol Buffers                                                                                                                                                 |
+| NoSql：        | ScyllaDB（宣称是世界上最快的NoSql）、Apache Casandra、MongoDB、Apache CouchDB、Redis、BigTable、HBase、Hypertable、Voldemort、Neo4j                                                                               |
+| MapReduce相关：  | Hive、Pig、Cascading、Cascalog、mrjob、Caffeine、S4、MapR、Acunu、Flume、Kafka、Azkaban、Oozie、Greenplum                                                                                                  |
+| 数据处理：         | R、Yahoo! Pipes、Mechanical Turk、Solr/ Lucene、ElasticSearch、Datameer、Bigsheets、Tinkerpop                                                                                                        |
+| NLP自然语言处理：    | Natural Language Toolkit、Apache OpenNLP、Boilerpipe、OpenCalais                                                                                                                                 |
+| 机器学习：         | TensorFlow（Google出品），WEKA、Mahout、scikits.learn、SkyTree                                                                                                                                        |
+| 可视化技术：        | GraphViz、Processing、Protovis、Google Fusion Tables、Tableau、Highcharts、EChats（百度的还不错）、Raphaël.js                                                                                                |
+| Kettle：       | 开源的ETL工具                                                                                                                                                                                      |
+| Pentaho：      | 以工作流为核心的开源BI系统                                                                                                                                                                                |
+| Mondrian：     | 开源的Rolap服务器                                                                                                                                                                                   |
+| Oozie：        | 开源hadoop的工作流调度引擎，类似的还有：Azkaban                                                                                                                                                                |
+| 开源的数据分析可视化工具： | Weka、Orange、KNIME                                                                                                                                                                             |
+| Cobar：        | 阿里巴巴的MySql分布式中间件                                                                                                                                                                              |
+| 数据清洗：         | data wrangler， Google Refine                                                                                                                                                                  |
 
 ## Web前端
 <a href='#目录'>返回目录</a>
@@ -691,5 +690,3 @@
 | 环形缓冲区,                   | 实时数据传输用                                                                               |
 | SDL,ffmpeg,live555,Speex | x                                                                                     |
 | Red5:                    | 用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。 |
-
-
