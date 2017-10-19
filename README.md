@@ -11,33 +11,34 @@
 # 目录
 
 * 资料篇
-* 技术站点
-* 必看书籍
-* 大牛博客
+  * 技术站点
+  * 必看书籍
+  * 大牛博客
 * GitHub篇
 * 工具篇
-* 平台工具
-* 常用工具
-* 第三方服务
-* 爬虫相关(好玩的工具)
-* 安全相关
-* Web服务器性能/压力测试工具/负载均衡器
-* 大数据处理/数据分析/分布式工具
+  * 平台工具
+  * 常用工具
+  * 第三方服务
+  * 爬虫相关(好玩的工具)
+  * 安全相关
+  * Web服务器性能/压力测试工具/负载均衡器
+  * 大数据处理/数据分析/分布式工具
 * Web前端
 * 语言篇
-* Scala
-* Java
-* Python
-* Swift
-* .NET
-* C & C++
-* 其他
-* 游戏开发相关
-* 日志聚合，分布式日志收集
-* RTP,实时传输协议与音视频
-* 资料篇
+  * Scala
+  * Java
+  * Python
+  * Swift
+  * .NET
+  * C & C++
+  * 其他
+  * 游戏开发相关
+  * 日志聚合，分布式日志收集
+  * RTP,实时传输协议与音视频
 
-# 技术站点
+# 资料篇
+
+## 技术站点
 
 在线学习：Coursera、edX、Udacity、MIT公开课、MOOC学院、慕课网
 Hacker News：非常棒的针对编程的链接聚合网站
@@ -64,7 +65,8 @@ DevStore:开发者服务商店
 MSDN：微软相关的官方技术集中地，主要是文档类
 谷歌开发者
 码库 - 收录了实用的开源项目及资源
-必看书籍
+
+## 必看书籍
 
 SICP(Structure and Interpretation of Computer Programs)
 深入理解计算机系统
@@ -93,7 +95,8 @@ Unix 编程艺术
 程序开发心理学
 天地一沙鸥
 搞定：无压力工作的艺术
-大牛博客
+
+## 大牛博客
 
 云风（游戏界大牛）: http://blog.codingnow.com/
 王垠（不少文章喷到蛮有道理）：http://www.yinwang.org/
@@ -105,9 +108,10 @@ Jeff Atwood（国外知名博主）: https://blog.codinghorror.com/
 廖雪峰（他的Python、Git教程不少人都看过）：http://www.liaoxuefeng.com/
 道哥的黑板报（安全）：https://zhuanlan.zhihu.com/taosay
 国内GitHub上关注度较高的开发者
-GitHub篇
 
-** Awesome **
+# GitHub篇
+
+## ** Awesome **
 
 Awesome: 这是个Awesome合集，常见的资料这里面都能找到
 Awesome2: 类似第一个Awesome
@@ -120,7 +124,8 @@ awesome-public-datasets
 awesome-AppSec(系统安全)
 awesome-datascience
 awesome-dataviz - 数据可视化库及资料
-** 书籍资料 **
+
+## ** 书籍资料 **
 
 free-programming-books 中文版
 免费的编程中文书籍索引
@@ -148,14 +153,16 @@ Data Science blogs
 Android Code Path
 Android Learn Notes
 PHP 类库框架，资料集合
-** 优秀项目 **
+
+## ** 优秀项目 **
 
 最值得关注的10个C语言开源项目
 15款值得学习的小型开源项目
 iOS-100个开源组件
 十大Material Design开源项目
 Android开源项目分类汇总
-** 前端 & Node.js **
+
+## ** 前端 & Node.js **
 
 前端资源
 前端开发指南
@@ -176,7 +183,8 @@ React-Native学习指南
 node.js中文资料导航
 Nodejs学习路线图
 如何学习nodejs
-** 工作，工具 **
+
+## ** 工作，工具 **
 
 系统管理员工具集合
 Pro Git
@@ -189,9 +197,10 @@ Color schemes for hackers
 GitHub秘籍
 Git风格指南
 Bast-App
-工具篇
 
-平台工具
+# 工具篇
+
+## 平台工具
 
 Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
 Redmine/Trac：项目管理平台
@@ -227,7 +236,8 @@ Gatling: 服务器性能压力测试工具
 systemtap: Linux内核探测工具、内核调试神器
 Cygwin：Windows下的类UNIX模拟环境
 MinGW：Windows下的GNU工具集
-常用工具
+
+## 常用工具
 
 Mac下的神兵利器
 asciinema: 终端录屏神器
@@ -279,7 +289,8 @@ Timing：Mac专用，统计你的时间都花在哪了
 f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
 LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
 Antlr：开源的语法分析器，可以让你毫无压力的写个小parser
-第三方服务
+
+## 第三方服务
 
 DnsPod：一个不错的智能DNS服务解析提供商
 DigitalOcean：海外的云主机提供商，价格便宜，磁盘是SSD的，用过一段时间整体上还可以，不过毕竟是海外的，网速比较慢。国内的就是阿里云了。还有个比较知名的是：Linode，据说速度上比DigitalOcean好很多
@@ -287,7 +298,8 @@ DigitalOcean：海外的云主机提供商，价格便宜，磁盘是SSD的，�
 LeanCloud：移动应用开发服务，包括:数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务
 Color Hunt: 漂亮炫酷的配色网站，程序员的福音
 Heroku: PaaS平台
-爬虫相关(好玩的工具)
+
+## 爬虫相关(好玩的工具)
 
 Phantomjs(Web自动化测试，服务端渲染等)
 berserkJS(基于Phantomjs的改进版本)
@@ -295,14 +307,16 @@ SlimerJS
 CasperJS
 selenium
 HtmlUnit（开源的java 页面分析工具，也是个Headless的浏览器）
-安全相关
+
+## 安全相关
 
 sql注入检测：sqlmap、haviji
 端口扫描：nmap
 渗透测试：BurpLoader
 sqltools: sql漏洞利用工具
 snort: 入侵检测
-Web服务器性能/压力测试工具/负载均衡器
+
+## Web服务器性能/压力测试工具/负载均衡器
 
 ab: ab是apache自带的一款功能强大的测试工具
 curl-loader: 真实模拟、测试Web负载
@@ -317,7 +331,8 @@ ElasticSearch：搜索引擎基于Lucene
 Page Speed SDK和YSLOW
 HAR Viewer: HAR分析工具
 protractor：E2E（end to end）自动化测试工具
-大数据处理/数据分析/分布式工具
+
+## 大数据处理/数据分析/分布式工具
 
 Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
 Spark：大规模数据处理框架（可以应付企业中常见的三种数据处理场景：复杂的批量数据处理（batch data processing）；基于历史数据的交互式查询（interactive query）；基于实时数据流的数据处理（streaming data processing）），CSND有篇文章介绍的不错
@@ -354,7 +369,8 @@ Oozie：开源hadoop的工作流调度引擎，类似的还有：Azkaban
 开源的数据分析可视化工具：Weka、Orange、KNIME
 Cobar：阿里巴巴的MySql分布式中间件
 数据清洗：data wrangler， Google Refine
-Web前端
+
+## Web前端
 
 Material Design: 谷歌出品，必属精品
 Vue.js: 借鉴了Angular及React的JS框架，设计理念较为先进
@@ -407,17 +423,19 @@ GoJS: Html5交互式图表库，看demo更适合层次结构的图表。
 10 Pure CSS (Mostly) Flat Mobile Devices: http://marvelapp.github.io/devices.css/
 CodePen: http://codepen.io/
 jsfiddle: http://jsfiddle.net/ 前端js，html，css测试利器
-语言篇
 
-折腾中：Scala、Python、Lua、JavaScript、Go
+# 语言篇
 
-待折腾：
+## 折腾中：Scala、Python、Lua、JavaScript、Go
+
+## 待折腾：
 
 Racket
 OCaml
 Rust
 Julia
-Scala
+
+### Scala
 
 Scala Standard Library API
 Scala School!: A Scala tutorial by Twitter
@@ -432,7 +450,8 @@ Scala Cheatsheet学习模式匹配的好资料
 Glossary of Scala and FP terms
 Metascala: A JVM written in Scala
 LMS: Program Generation and Embedded Compilers in Scala
-Java
+
+### Java
 
 常用的IDE：IntelliJ IDEA(强烈推荐)，Eclipse，Netbeans
 fastutil: 性能更好的Java集合框架
@@ -467,7 +486,8 @@ Atomikos: 分布式事务管理
 BoneCP：性能很赞的数据库连接池组件，据说比c3p0快好多
 ProGuard: obconfuscation tool, 强大的混淆工具
 S-99：Scala相关的99个问题
-Python
+
+### Python
 
 PyCharm：最佳Python IDE
 Eric,Eclipse+pydev,比较不错的Python IDE
@@ -477,30 +497,36 @@ GUI相关：PyQt，PyQwt
 supervisor:进程监控工具
 PyGame: 基于Python的多媒体开发和游戏软件开发模块
 Web框架: Django 开源web开发框架，它鼓励快速开发,并遵循MVC设计
-Swift
+
+### Swift
 
 Swift精选资料
 43个优秀的开源项目
-客户端
+
+### 客户端
 
 糗事百科 Swift
 HackerNews Swift
 知乎日报app
-Framework
+
+### Framework
 
 Twitter框架
 Mac下简单HTTP Server Swifter
-小工具
+
+### 小工具
 
 Swift Alarm
 Swift Note
 Swift RSS Reader
 Swift-PM2.5查询app
-游戏
+
+### 游戏
 
 Flappy Swift
 FanFan Swift
-.NET
+
+### .NET
 
 Xilium.CefGlue:基于CEF框架的.NET封装，基于.NET开发Chrome内核浏览器
 CefSharp：同上，有一款WebKit的封装，C#和Js交互会更简单
@@ -542,7 +568,8 @@ ServiceStack: 开源高性能Web服务框架，可用于构建高性能的REST�
 Expression Evaluator：Eval for C#,处理字符串表达式
 http://nugetmusthaves.com/
 Reactive Extensions (Rx):异步，事件驱动编程包， Rx = Observables + LINQ + Schedulers
-C & C++
+
+### C & C++
 
 Thrift:用来进行可扩展且跨语言的服务的开发(类似的还有个Avro，Google protobuf)。
 libevent:是一个事件触发的网络库，适用于windows、linux、bsd等多种平台，内部使用select、epoll、kqueue等系统调用管理事件机制。（对了还有个libev呢）
@@ -552,9 +579,10 @@ NetworkServer架构：acceptor->dispatcher->worker(这个不算工具哦)
 POCO - 开源的C++类库及应用程序框架的集合,它主要提供简单的、快速的网络和可移植应用程序
 breakpad:崩溃转储和分析模块，很多crashreport会用到
 UI界面相关：MFC、BCG和QT这类的就不说了，高端一点的还有Html和DirectUI技术：libcef（基于chrome内核的，想想使用html5开发页面，还真有点小激动呢）、HtmlLayout、Duilib、Bolt，非C++的，还有node-webkit也不错，集成了node和webkit内核。
-其他
 
-游戏开发相关
+### 其他
+
+## 游戏开发相关
 
 MINA：使用Java开发手游和页游服务器(对了还有Netty，也很猛的，都是基于NIO的)
 HP-Socket：见有有些页游服务器使用这个构建的
@@ -564,12 +592,14 @@ OpenVDB：梦工厂C++的特效库，开源的
 cocos2d：跨平台2D游戏引擎
 unity3d：跨平台3D游戏引擎，很火的哦
 Nodejs：也有不少使用它来开发手游和也有服务器（网易的Pomelo）
-日志聚合，分布式日志收集
+
+## 日志聚合，分布式日志收集
 
 Scribe：Facebook的（nodejs + scribe + inotify 同步日志）
 logstash:强大的日志收集系统，可以基于logstash+kibana+elasticsearch+redis开发强大的日志分析平台
 log.io: nodejs开发的实时日志收集系统
-RTP,实时传输协议与音视频
+
+## RTP,实时传输协议与音视频
 
 RTP，RTCP，RTSP-> librtp，JRTPLIB(遵循了RFC1889标准)
 环形缓冲区，实时数据传输用
