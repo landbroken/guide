@@ -1,3 +1,4 @@
+<span id='qy' />
 # 前言
 
 成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。
@@ -8,287 +9,339 @@
 
 这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。
 
+<span id='qy' />
 # 目录
 
-* 资料篇
-  * 技术站点
-  * 必看书籍
-  * 大牛博客
-* GitHub篇
-* 工具篇
-  * 平台工具
-  * 常用工具
-  * 第三方服务
-  * 爬虫相关(好玩的工具)
-  * 安全相关
-  * Web服务器性能/压力测试工具/负载均衡器
-  * 大数据处理/数据分析/分布式工具
-* Web前端
-* 语言篇
-  * Scala
-  * Java
-  * Python
-  * Swift
-  * .NET
-  * C & C++
-  * 其他
-  * 游戏开发相关
-  * 日志聚合，分布式日志收集
-  * RTP,实时传输协议与音视频
+* <a href='qy'>前言</a>
+* <a href='mu'>目录</a>
+* <a href='zl'>资料篇</a>
+  * <a href='jszd'>技术站点</a>
+  * <a href='bksj'>必看书籍</a>
+  * <a href='dnbk'>大牛博客</a>
+* <a href='github'>GitHub篇</a>
+* <a href='gj'>工具篇</a>
+  * <a href='ptgj'>平台工具</a>
+  * <a href='cygj'>常用工具</a>
+  * <a href='dsffw'>第三方服务</a>
+  * <a href='pcxg'>爬虫相关(好玩的工具)</a>
+  * <a href='aqxg'>安全相关</a>
+  * <a href='web'>Web服务器性能/压力测试工具/负载均衡器</a>
+  * <a href='dsjcl'>大数据处理/数据分析/分布式工具</a>
+  * <a href='webqd'>Web前端</a>
+* <a href='yy'>语言篇</a>
+  * <a href='scala'>Scala</a>
+  * <a href='java'>Java</a>
+  * <a href='python'>Python</a>
+  * <a href='swift'>Swift</a>
+  * <a href='net'>.NET</a>
+  * <a href='ccpp'>C & C++</a>
+  * <a href='qt'>其他</a>
+  * <a href='yxkfxg'>游戏开发相关</a>
+  * <a href='rzjh'>日志聚合，分布式日志收集</a>
+  * <a href='rtp'>RTP,实时传输协议与音视频</a>
 
+<span id='qy' />
 # 资料篇
 
+<span id='qy' />
 ## 技术站点
 
-在线学习：Coursera、edX、Udacity、MIT公开课、MOOC学院、慕课网
-Hacker News：非常棒的针对编程的链接聚合网站
-Techmeme：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
-Reddit - Programming板块：同上
-Java牛人必备：Program Creek
-Stack Overflow：IT技术问答网站
-SegmentFault：中文的技术问答社区
-GitHub：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等
-码云：支持中文可免费创建私有项目的代码托管平台，可作为备选
-LeetCode：来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。
-LintCode：支持中文的编程题在线训练平台，可作为备选
-Kaggle,Topcoder: 机器学习、大数据竞赛
-掘金：高质量的技术社区
-开发者头条
-InfoQ：企业级应用，关注软件开发领域
-V2EX: way to explore
-国内老牌技术社区：OSChina、博客园、CSDN、51CTO
-免费的it电子书：http://it-ebooks.info/
-在线学习：http://www.udemy.com/
-优质学习资源：http://plus.mojiax.com/
-代码练习：http://exercism.io/ and https://www.codingame.com
-DevStore:开发者服务商店
-MSDN：微软相关的官方技术集中地，主要是文档类
-谷歌开发者
-码库 - 收录了实用的开源项目及资源
+### 在线学习
+
+1. Coursera、edX、Udacity、MIT公开课、MOOC学院、慕课网
+1. Hacker News
+> 非常棒的针对编程的链接聚合网站
+
+1. Techmeme
+> 美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
+1. Reddit - Programming板块
+> 同上
+1. Java牛人必备：
+> Program Creek
+1. Stack Overflow：
+> IT技术问答网站
+1. SegmentFault：
+> 中文的技术问答社区
+1. GitHub：
+> 全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等
+1. 码云：
+> 支持中文可免费创建私有项目的代码托管平台，可作为备选
+1. LeetCode：
+> 来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。
+1. LintCode：
+> 支持中文的编程题在线训练平台，可作为备选
+1. Kaggle,Topcoder: 
+> 机器学习、大数据竞赛
+1. 掘金：
+> 高质量的技术社区
+
+
+### 开发者头条
+
+1. InfoQ：
+> 企业级应用，关注软件开发领域
+
+1. V2EX: 
+> way to explore
+1. 国内老牌技术社区：
+> OSChina、博客园、CSDN、51CTO
+1. 免费的it电子书：
+> http://it-ebooks.info/
+1. 在线学习：
+> http://www.udemy.com/
+1. 优质学习资源：
+> http://plus.mojiax.com/
+1. 代码练习：
+> http://exercism.io/ and https://www.codingame.com
+1. DevStore:
+> 开发者服务商店
+1. MSDN：
+> 微软相关的官方技术集中地，主要是文档类
+1. 谷歌开发者
+1. 码库
+> 收录了实用的开源项目及资源
 
 ## 必看书籍
 
-SICP(Structure and Interpretation of Computer Programs)
-深入理解计算机系统
-代码大全2
-人件
-人月神话
-软件随想录
-算法导论（麻省理工学院出版社）
-离散数学及其应用
-设计模式
-编程之美
-黑客与画家
-编程珠玑
-The Little Schemer
-Simply Scheme_Introducing_Computer_Science
-C++ Prime
-Effective C++
-TCP/IP详解
-Unix 编程艺术
-技术的本质
-软件随想录
-计算机程序设计艺术
-职业篇：程序员的自我修养,程序员修炼之道,高效能程序员的修炼
-《精神分析引论》弗洛伊德
-《失控》《科技想要什么》《技术元素》凯文凯利
-程序开发心理学
-天地一沙鸥
-搞定：无压力工作的艺术
+1. SICP(Structure and Interpretation of Computer Programs)
+1. 深入理解计算机系统
+1. 代码大全2
+1. 人件
+1. 人月神话
+1. 软件随想录
+1. 算法导论（麻省理工学院出版社）
+1. 离散数学及其应用
+1. 设计模式
+1. 编程之美
+1. 黑客与画家
+1. 编程珠玑
+1. The Little Schemer
+1. Simply Scheme_Introducing_Computer_Science
+1. C++ Prime
+1. Effective C++
+1. TCP/IP详解
+1. Unix 编程艺术
+1. 技术的本质
+1. 软件随想录
+1. 计算机程序设计艺术
+1. 职业篇：程序员的自我修养,程序员修炼之道,高效能程序员的修炼
+1. 《精神分析引论》弗洛伊德
+1. 《失控》《科技想要什么》《技术元素》凯文凯利
+1. 程序开发心理学
+1. 天地一沙鸥
+1. 搞定：无压力工作的艺术
 
 ## 大牛博客
 
-云风（游戏界大牛）: http://blog.codingnow.com/
-王垠（不少文章喷到蛮有道理）：http://www.yinwang.org/
-冰河-伞哥(Lisp大牛)：http://tianchunbinghe.blog.163.com/
-R大【干货满满】RednaxelaFX写的文章/回答的导航帖
-陈皓-左耳朵耗子：http://coolshell.cn/
-Jeff Atwood（国外知名博主）: https://blog.codinghorror.com/
-阮一峰（黑客与画家译者，Web）：http://www.ruanyifeng.com/
-廖雪峰（他的Python、Git教程不少人都看过）：http://www.liaoxuefeng.com/
-道哥的黑板报（安全）：https://zhuanlan.zhihu.com/taosay
-国内GitHub上关注度较高的开发者
+1. 云风（游戏界大牛）: 
+> http://blog.codingnow.com/
+
+1. 王垠（不少文章喷到蛮有道理）：
+> http://www.yinwang.org/
+1. 冰河-伞哥(Lisp大牛)：
+> http://tianchunbinghe.blog.163.com/
+1. R大【干货满满】RednaxelaFX写的文章/回答的导航帖
+1. 陈皓-左耳朵耗子：
+> http://coolshell.cn/
+1. Jeff Atwood（国外知名博主）: 
+> https://blog.codinghorror.com/
+1. 阮一峰（黑客与画家译者，Web）：
+> http://www.ruanyifeng.com/
+1. 廖雪峰（他的Python、Git教程不少人都看过）：
+> http://www.liaoxuefeng.com/
+1. 道哥的黑板报（安全）：
+> https://zhuanlan.zhihu.com/taosay
+1. 国内GitHub上关注度较高的开发者
 
 # GitHub篇
 
-## ** Awesome **
+## **Awesome**
 
-Awesome: 这是个Awesome合集，常见的资料这里面都能找到
-Awesome2: 类似第一个Awesome
-杂七杂八、有用没用的Awesome合集
-非常不错的语言类学习资料集合：Awesomeness
-awesome-ios-ui
-awesome-android-ui
-Awesome-MaterialDesign
-awesome-public-datasets
-awesome-AppSec(系统安全)
-awesome-datascience
-awesome-dataviz - 数据可视化库及资料
+1. Awesome: 
+> 这是个Awesome合集，常见的资料这里面都能找到
 
-## ** 书籍资料 **
+1. Awesome2: 
+> 类似第一个Awesome
+1. 杂七杂八、有用没用的Awesome合集
+1. 非常不错的语言类学习资料集合：
+	* Awesomeness
+	* awesome-ios-ui
+	* awesome-android-ui
+	* Awesome-MaterialDesign	
+	* awesome-public-datasets
+	* awesome-AppSec(系统安全)
+	* awesome-datascience
+	* awesome-dataviz - 数据可视化库及资料
 
-free-programming-books 中文版
-免费的编程中文书籍索引
-《程序员编程艺术 — 面试和算法心得》
-GoBooks
-Papers we love
-自然语言处理NLP推荐学习路线及参考资料
-超级棒的机器学习资料（框架，库，软件）, 中文翻译版
-机器学习(Machine Learning)&深入学习(Deep Learning)资料
-Docker资料合集
-学习使用Strom
-Hadoop Internals
-Spark Internals
-大数据时代的数据分析与数据挖掘 – 基于Hadoop实现
-如何制作操作系统
-借助开源项目学习软件开发
-几个不错的开源游戏引擎
-一起写Python文章，一起看Python文章
-R的极客理想系列文章
-HTTP接口设计指南
-分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
-Readings in Databases
-Data Science blogs
-日志：每个软件工程师都应该知道的有关实时数据的统一概念
-Android Code Path
-Android Learn Notes
-PHP 类库框架，资料集合
+## **书籍资料**
 
-## ** 优秀项目 **
+1. free-programming-books 中文版
+1. 免费的编程中文书籍索引
+1. 《程序员编程艺术 — 面试和算法心得》
+1. GoBooks
+1. Papers we love
+1. 自然语言处理NLP推荐学习路线及参考资料
+1. 超级棒的机器学习资料（框架，库，软件）, 中文翻译版
+1. 机器学习(Machine Learning)&深入学习(Deep Learning)资料
+1. Docker资料合集
+1. 学习使用Strom
+1. Hadoop Internals
+1. Spark Internals
+1. 大数据时代的数据分析与数据挖掘 – 基于Hadoop实现
+1. 如何制作操作系统
+1. 借助开源项目学习软件开发
+1. 几个不错的开源游戏引擎
+1. 一起写Python文章，一起看Python文章
+1. R的极客理想系列文章
+1. HTTP接口设计指南
+1. 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+1. Readings in Databases
+1. Data Science blogs
+1. 日志：每个软件工程师都应该知道的有关实时数据的统一概念
+1. Android Code Path
+1. Android Learn Notes
+1. PHP 类库框架，资料集合
 
-最值得关注的10个C语言开源项目
-15款值得学习的小型开源项目
-iOS-100个开源组件
-十大Material Design开源项目
-Android开源项目分类汇总
+## **优秀项目**
 
-## ** 前端 & Node.js **
+1. 最值得关注的10个C语言开源项目
+1. 15款值得学习的小型开源项目
+1. iOS-100个开源组件
+1. 十大Material Design开源项目
+1. Android开源项目分类汇总
 
-前端资源
-前端开发指南
-前端技能汇总
-前端资源大导航
-收集前端方面的书籍
-2014年最新前端开发面试题
-简单清晰的JavaScript语言教程，代码示例
-JavaScript编程规范
-JavaScript必看视频
-JavaScript标准参考教程（阮一峰的，整理的不错）
-JS必看
-AngularJS Guide的中文分支
-Angular2学习资料
-AngularJS应用的最佳实践和风格指南
-React-Native学习指南
-七天学会NodeJS
-node.js中文资料导航
-Nodejs学习路线图
-如何学习nodejs
+## **前端 & Node.js**
 
-## ** 工作，工具 **
+1. 前端资源
+1. 前端开发指南
+1. 前端技能汇总
+1. 前端资源大导航
+1. 收集前端方面的书籍
+1. 2014年最新前端开发面试题
+1. 简单清晰的JavaScript语言教程，代码示例
+1. JavaScript编程规范
+1. JavaScript必看视频
+1. JavaScript标准参考教程（阮一峰的，整理的不错）
+1. JS必看
+1. AngularJS Guide的中文分支
+1. Angular2学习资料
+1. AngularJS应用的最佳实践和风格指南
+1. React-Native学习指南
+1. 七天学会NodeJS
+1. node.js中文资料导航
+1. Nodejs学习路线图
+1. 如何学习nodejs
 
-系统管理员工具集合
-Pro Git
-Nginx开发从入门到精通
-Google 全球 IP 地址库
-收集整理远程工作相关的资料
-Color schemes for hackers
-游戏开发工具集，MagicTools
-开发者工具箱， free-for-dev
-GitHub秘籍
-Git风格指南
-Bast-App
+## **工作，工具**
+
+1. 系统管理员工具集合
+1. Pro Git
+1. Nginx开发从入门到精通
+1. Google 全球 IP 地址库
+1. 收集整理远程工作相关的资料
+1. Color schemes for hackers
+1. 游戏开发工具集，MagicTools
+1. 开发者工具箱， free-for-dev
+1. GitHub秘籍
+1. Git风格指南
+1. Bast-App
 
 # 工具篇
 
 ## 平台工具
 
-Phabricator: 软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
-Redmine/Trac：项目管理平台
-Jenkins/Jira(非开源)：持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
-git，svn：源代码版本控制系统
-GitLab/Gitorious：构建自己的GitHub服务器
-Postman:RESTful，api测试工具，HTTP接口开发必备神器
-Lottie: AE动画变原生代码，设计师必备
-Sonar：代码质量管理平台
-Nessus: 系统漏洞扫描器
-gitbook：https://www.gitbook.io/写书的好东西，当然用来写文档也很不错的（发现不少产品的文档就是用的它）
-Travis-ci：开源项目持续集成必备，和GitHub相结合，https://travis-ci.org/
-Trello：简单高效的项目管理平台，注重看板管理
-日志聚合：graylog、ELK（推荐新一代的graylog，基本上算作是开源的Splunk了）
-开源测试工具、社区（Selenium、OpenQA.org）
-Puppet:一个自动管理引擎，可以适用于Linux、Unix以及Windows平台。所谓配置管理系统，就是管理机器里面诸如文件、用户、进程、软件包这些资源。无论是管理1台，还是上万台机器Puppet都能轻松搞定。其他类似工具：CFEngine、SaltStack、Ansible
-Nagios：系统状态监控报警，还有个Icinga(完全兼容nagios所有的插件,工作原理,配置文件以及方法,几乎一模一样。配置简单,功能强大)
-Ganglia：分布式监控系统
-fleet：分布式init系统
-Ansible：能够大大简化Unix管理员的自动化配置管理与流程控制方式。
-GeoLite免费数据库
-jsHint:js代码验证工具
-haproxy: 高可用负载均衡（此外类似的系统还有nginx，lvs）
-linux OS性能分析工具：dstat，iostat，iotop，nmon
-kimono：将网页信息转换为api接口的工具
-集群管理工具：pdsh，ClusterSSH，mussh（可以用它快速管理Hadoop集群）ipa-server做统一的认证管理
-influxdb: 分布式时序数据库，结合Grafana可以进行实时数据分析
-dot: 程序员绘图利器（是种语言，也是个工具）
-Graph::Easy: （Ascii Art工具）字符流程图绘制，实乃程序员装逼神器。其他类似的工具Asciiflow, vi插件：drawit!
-spf13-vim: 让你的vim飞起来！
-Kubernetes: 容器集群管理系统
-Gatling: 服务器性能压力测试工具
-systemtap: Linux内核探测工具、内核调试神器
-Cygwin：Windows下的类UNIX模拟环境
-MinGW：Windows下的GNU工具集
+Name | Description
+|---|---|
+Phabricator |软件开发平台，Facebook出品，现已开源，CodeReview神器（从这个往下一直到GitLab之间的工具统统可以忽略了）
+Redmine/Trac|项目管理平台
+Jenkins/Jira(非开源)|持续集成系统（Apache Continuum，这个是Apache下的CI系统，还没来得及研究）
+git，svn|源代码版本控制系统
+GitLab/Gitorious：|构建自己的GitHub服务器
+Postman:|RESTful，api测试工具，HTTP接口开发必备神器
+Lottie:| AE动画变原生代码，设计师必备
+Sonar：|代码质量管理平台
+Nessus: |系统漏洞扫描器
+gitbook：|https://www.gitbook.io/写书的好东西，当然用来写文档也很不错的（发现不少产品的文档就是用的它）
+Travis-ci：|开源项目持续集成必备，和GitHub相结合，https://travis-ci.org/
+Trello：|简单高效的项目管理平台，注重看板管理
+日志聚合：|graylog、ELK（推荐新一代的graylog，基本上算作是开源的Splunk了）
+开源测试工具、社区|（Selenium、OpenQA.org）
+Puppet:|一个自动管理引擎，可以适用于Linux、Unix以及Windows平台。所谓配置管理系统，就是管理机器里面诸如文件、用户、进程、软件包这些资源。无论是管理1台，还是上万台机器Puppet都能轻松搞定。其他类似工具：|CFEngine、SaltStack、Ansible
+Nagios：|系统状态监控报警，还有个Icinga(完全兼容nagios所有的插件,工作原理,配置文件以及方法,几乎一模一样。配置简单,功能强大)
+Ganglia：|分布式监控系统
+fleet：|分布式init系统
+Ansible：|能够大大简化Unix管理员的自动化配置管理与流程控制方式。
+GeoLite|免费数据库
+jsHint:|js代码验证工具
+haproxy: |高可用负载均衡（此外类似的系统还有nginx，lvs）
+linux OS性能分析工具：|dstat，iostat，iotop，nmon
+kimono：|将网页信息转换为api接口的工具
+集群管理工具：|pdsh，ClusterSSH，mussh（可以用它快速管理Hadoop集群）ipa-server做统一的认证管理
+influxdb: |分布式时序数据库，结合Grafana可以进行实时数据分析
+dot: |程序员绘图利器（是种语言，也是个工具）
+Graph::Easy: |（Ascii Art工具）字符流程图绘制，实乃程序员装逼神器。其他类似的工具Asciiflow, vi插件：|drawit!
+spf13-vim: |让你的vim飞起来！
+Kubernetes: |容器集群管理系统
+Gatling: |服务器性能压力测试工具
+systemtap: |Linux内核探测工具、内核调试神器
+Cygwin：|Windows下的类UNIX模拟环境
+MinGW：|Windows下的GNU工具集
 
 ## 常用工具
 
-Mac下的神兵利器
-asciinema: 终端录屏神器
-Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
-Charles: Mac上的Web代理调试工具，类似Fiddler
-fir.im免费的移动App内测托管平台
-wireshark：知名的网络数据包分析工具
-PowerCmd:替代Windows Cmd的利器
-RegexBuddy:强大的正则表达式测试工具
-Soure Insight：源代码阅读神器
-SublimeText：程序员最爱的编辑器
-Database.NET：一个通用的关系型数据库客户端，基于.NET 4.0开发的，做简单的处理还是蛮方便的
-Navicat Premium：支持MySql、PostgreSQL、Oracle、Sqlite和SQL Server的客户端，通用性上不如Database.NET，但性能方面比Database.NET好很多，自带备份功能也用于数据库定时备份。
-Synergy : 局域网内一套键盘鼠标控制多台电脑
-DameWare：远程协助工具集（我在公司主要控制大屏幕用）
-Radmin: 远程控制工具，用了一段时间的DameWare，还要破解，对Win7支持的不好，还是发现这个好用
-Listary：能极大幅度提高你 Windows 文件浏览与搜索速度效率的「超级神器」
-Clover：给资源管理器加上多标签，我平时工作的时候就用它，像Chrome一样使用资源管理器，甚是方便啊（这是Windows平台的）
-WinLaunch：模拟Mac OS的Launch工具
-Fritzing：绘制电路图
-LICEcap：gif教程制作
-git，svn：版本控制系统
-Enigma Virtual Box（将exe，dll等封装成一个可执行程序）
-Open DBDiff(针对SqlServer)数据库同步
-SymmetricDS：数据库同步
-BIEE,Infomatica，SPSS，weka，R语言：数据分析
-CodeSmith，LightSwitch：代码生成
-Pandoc：Markdown转换工具，出书用的。以前玩过docbook，不过现在还是Markdown盛行啊。
-Window Magnet[Mac]：增强Mac窗口管理功能，想Win7一样具有窗口拖放到屏幕边缘自动调整的功能
-log explorer：查看SqlServer日志
-dependency walker：查询Windows应用程序dll依赖项
-Shairport4w：将iPhone，iPad，iPod上的音频通过AirPlay协议传输到PC上
-ngrok：内网穿透工具
-Axure:快速原型制作工具，还有个在线作图的工具国内的一个创业团队做的，用着很不错http://www.processon.com/
-Origami: 次世代交互设计神器
-百度脑图：http://naotu.baidu.com/
-tinyproxy:（Linux）小型的代理服务器支持http和https协议
-EaseUS Partition Master：超级简单的分区调整工具，速度还是蛮快的，C盘不够用了就用它从D盘划点空间吧，不用重装系统这么折腾哦。
-CheatEngine：玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
-ApkIDE:Android反编译神器
-翻、墙工具（自|由|门、天行浏览器，免费的VPN：http://www.mangovpn.com/）,发现最方便还属Lantern，免费用起来超级方便（更新于2015-08-22）
-设计工具：Sketch、OmniGraffle
-MindManger：思维导图
-MagicDraw:Uml图工具
-innotop：MySql状态监测工具
-墨刀：比Axure更为简单的原型工具，可以快速制作原型
-Karabiner: Mac专用，修改键盘键位的神器，机械键盘必备
-Timing：Mac专用，统计你的时间都花在哪了
-f.lux: 护眼神器，过滤蓝光，程序员护眼必备良品
-LaTeX: 基于ΤΕΧ的排版系统, 让写论文更方便
-Antlr：开源的语法分析器，可以让你毫无压力的写个小parser
+### Mac下的神兵利器
+
+Name | Description
+---|---
+asciinema:|终端录屏神器
+Fiddler|非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
+Charles: |Mac上的Web代理调试工具，类似Fiddler
+fir.im|免费的移动App内测托管平台
+wireshark：|知名的网络数据包分析工具
+PowerCmd:|替代Windows Cmd的利器
+RegexBuddy:|强大的正则表达式测试工具
+Soure Insight：|源代码阅读神器
+SublimeText：|程序员最爱的编辑器
+Database.NET：|一个通用的关系型数据库客户端，基于.NET 4.0开发的，做简单的处理还是蛮方便的
+Navicat Premium：|支持MySql、PostgreSQL、Oracle、Sqlite和SQL Server的客户端，通用性上不如Database.NET，但性能方面比Database.NET好很多，自带备份功能也用于数据库定时备份。
+Synergy : |局域网内一套键盘鼠标控制多台电脑
+DameWare：|远程协助工具集（我在公司主要控制大屏幕用）
+Radmin: |远程控制工具，用了一段时间的DameWare，还要破解，对Win7支持的不好，还是发现这个好用
+Listary：|能极大幅度提高你 Windows 文件浏览与搜索速度效率的「超级神器」
+Clover：|给资源管理器加上多标签，我平时工作的时候就用它，像Chrome一样使用资源管理器，甚是方便啊（这是Windows平台的）
+WinLaunch：|模拟Mac OS的Launch工具
+Fritzing：|绘制电路图
+LICEcap：|gif教程制作
+git，svn：|版本控制系统
+Enigma Virtual Box|（将exe，dll等封装成一个可执行程序）
+Open DBDiff|(针对SqlServer)数据库同步
+SymmetricDS：|数据库同步
+BIEE,Infomatica，SPSS，weka，R语言：|数据分析
+CodeSmith，LightSwitch：|代码生成
+Pandoc：|Markdown转换工具，出书用的。以前玩过docbook，不过现在还是Markdown盛行啊。
+Window Magnet[Mac]：|增强Mac窗口管理功能，想Win7一样具有窗口拖放到屏幕边缘自动调整的功能
+log explorer：|查看SqlServer日志
+dependency walker：|查询Windows应用程序dll依赖项
+Shairport4w：|将iPhone，iPad，iPod上的音频通过AirPlay协议传输到PC上
+ngrok：|内网穿透工具
+Axure:|快速原型制作工具，还有个在线作图的工具国内的一个创业团队做的，用着很不错http://www.processon.com/
+Origami: |次世代交互设计神器
+百度脑图：|http://naotu.baidu.com/
+tinyproxy:|（Linux）小型的代理服务器支持http和https协议
+EaseUS Partition Master：|超级简单的分区调整工具，速度还是蛮快的，C盘不够用了就用它从D盘划点空间吧，不用重装系统这么折腾哦。
+CheatEngine：|玩游戏修改内存值必备神器（记得我在玩轩辕剑6的时候就用的它，超级方便呢）
+ApkIDE:|Android反编译神器
+翻、墙工具|（自\|由\|门、天行浏览器，免费的VPN：http://www.mangovpn.com/）,发现最方便还属Lantern，免费用起来超级方便（更新于2015-08-22）
+设计工具：|Sketch、OmniGraffle
+MindManger：|思维导图
+MagicDraw:|Uml图工具
+innotop：|MySql状态监测工具
+墨刀：|比Axure更为简单的原型工具，可以快速制作原型
+Karabiner:| Mac专用，修改键盘键位的神器，机械键盘必备
+Timing：|Mac专用，统计你的时间都花在哪了
+f.lux: |护眼神器，过滤蓝光，程序员护眼必备良品
+LaTeX: |基于ΤΕΧ的排版系统, 让写论文更方便
+Antlr：|开源的语法分析器，可以让你毫无压力的写个小parser
 
 ## 第三方服务
 
@@ -426,30 +479,30 @@ jsfiddle: http://jsfiddle.net/ 前端js，html，css测试利器
 
 # 语言篇
 
-## 折腾中：Scala、Python、Lua、JavaScript、Go
+* 折腾中：Scala、Python、Lua、JavaScript、Go
+* 待折腾：Racket、OCaml、Rust、Julia
 
-## 待折腾：
+## Scala
 
-Racket
-OCaml
-Rust
-Julia
+* Scala Standard Library API
+* Scala School!: 
+> A Scala tutorial by Twitter
 
-### Scala
-
-Scala Standard Library API
-Scala School!: A Scala tutorial by Twitter
-A Tour of Scala: Tutorial introducing the main concepts of Scala
-Scala Overview on StackOverflow: A list of useful questions sorted by topic
-Programming in Scala，最新的第3版，还没有电子版，电子版是第一版
-《Scala for the Impatient》
-《Scala in Depth》
-《Programming Scala》Dean Wampler and Alex Payne. O’Reilly 2009
-Scala By Example
-Scala Cheatsheet学习模式匹配的好资料
-Glossary of Scala and FP terms
-Metascala: A JVM written in Scala
-LMS: Program Generation and Embedded Compilers in Scala
+* A Tour of Scala:
+> Tutorial introducing the main concepts of Scala
+* Scala Overview on StackOverflow:
+> A list of useful questions sorted by topic
+* Programming in Scala，最新的第3版，还没有电子版，电子版是第一版
+* 《Scala for the Impatient》
+* 《Scala in Depth》
+* 《Programming Scala》Dean Wampler and Alex Payne. O’Reilly 2009
+* Scala By Example
+* Scala Cheatsheet学习模式匹配的好资料
+* Glossary of Scala and FP terms
+* Metascala: 
+> A JVM written in Scala
+* LMS: 
+> Program Generation and Embedded Compilers in Scala
 
 ### Java
 
@@ -605,3 +658,5 @@ RTP，RTCP，RTSP-> librtp，JRTPLIB(遵循了RFC1889标准)
 环形缓冲区，实时数据传输用
 SDL,ffmpeg,live555,Speex
 Red5:用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。
+
+
