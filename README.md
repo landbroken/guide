@@ -2,41 +2,41 @@
 
 * <a href='#前言'>前言</a>
 * <a href='#资料篇'>资料篇</a>
-  * <a href='#技术站点'>技术站点</a>
-  * <a href='#开发者头条'>开发者头条</a>
-  * <a href='#必看书籍'>必看书籍</a>
-  * <a href='#大牛博客'>大牛博客</a>
+    * <a href='#技术站点'>技术站点</a>
+    * <a href='#开发者头条'>开发者头条</a>
+    * <a href='#必看书籍'>必看书籍</a>
+    * <a href='#大牛博客'>大牛博客</a>
 * <a href='#github篇'>GitHub篇</a>
-  * <a href='#awesome'>Awesome</a>
-  * <a href="#书籍资料">书籍资料</a>
-  * <a href="#优秀项目">优秀项目</a>
-  * <a href="#前端--nodejs">前端&nodejs</a>
-  * <a href="#工作工具">工作工具</a>
+    * <a href='#awesome'>Awesome</a>
+    * <a href="#书籍资料">书籍资料</a>
+    * <a href="#优秀项目">优秀项目</a>
+    * <a href="#前端--nodejs">前端&nodejs</a>
+    * <a href="#工作工具">工作工具</a>
 * <a href='#工具篇'>工具篇</a>
-  * <a href='#平台工具'>平台工具</a>
-  * <a href='#常用工具'>常用工具</a>
-    * <a href="#mac下的神兵利器">mac下的神兵利器</a>
-  * <a href='#第三方服务'>第三方服务</a>
-  * <a href='#爬虫相关好玩的工具'>爬虫相关(好玩的工具)</a>
-  * <a href='#安全相关'>安全相关</a>
-  * <a href='#web服务器性能压力测试工具负载均衡器'>Web服务器性能/压力测试工具/负载均衡器</a>
-  * <a href='#大数据处理数据分析分布式工具'>大数据处理/数据分析/分布式工具</a>
-  * <a href='#web前端'>Web前端</a>
+    * <a href='#平台工具'>平台工具</a>
+    * <a href='#常用工具'>常用工具</a>
+        * <a href="#mac下的神兵利器">mac下的神兵利器</a>
+    * <a href='#第三方服务'>第三方服务</a>
+    * <a href='#爬虫相关好玩的工具'>爬虫相关(好玩的工具)</a>
+    * <a href='#安全相关'>安全相关</a>
+    * <a href='#web服务器性能压力测试工具负载均衡器'>Web服务器性能/压力测试工具/负载均衡器</a>
+    * <a href='#大数据处理数据分析分布式工具'>大数据处理/数据分析/分布式工具</a>
+    * <a href='#web前端'>Web前端</a>
 * <a href='#语言篇'>语言篇</a>
-  * <a href='#scala'>Scala</a>
-  * <a href='#java'>Java</a>
-  * <a href='#python'>Python</a>
-  * <a href='#swift'>Swift</a>
-    * <a href="#客户端">客户端</a>
-    * <a href="#framework">Framework</a>
-    * <a href="#小工具">小工具</a>
-    * <a href="#游戏">游戏</a>
-  * <a href='#net'>.NET</a>
-  * <a href='#c--c'>C & C++</a>
-  * <a href='#其他'>其他</a>
-    * <a href='#游戏开发相关'>游戏开发相关</a>
-    * <a href='#日志聚合分布式日志收集'>日志聚合，分布式日志收集</a>
-    * <a href='#rtp实时传输协议与音视频'>RTP,实时传输协议与音视频</a>
+    * <a href='#scala'>Scala</a>
+    * <a href='#java'>Java</a>
+    * <a href='#python'>Python</a>
+    * <a href='#swift'>Swift</a>
+        * <a href="#客户端">客户端</a>
+        * <a href="#framework">Framework</a>
+        * <a href="#小工具">小工具</a>
+        * <a href="#游戏">游戏</a>
+    * <a href='#net'>.NET</a>
+    * <a href='#c--c'>C & C++</a>
+    * <a href='#其他'>其他</a>
+        * <a href='#游戏开发相关'>游戏开发相关</a>
+        * <a href='#日志聚合分布式日志收集'>日志聚合，分布式日志收集</a>
+        * <a href='#rtp实时传输协议与音视频'>RTP,实时传输协议与音视频</a>
 
 # 前言
 <a href='#目录'>返回目录</a>
@@ -140,17 +140,18 @@
 ## **Awesome**
 <a href='#目录'>返回目录</a>
 
-1. Awesome: 
-> 这是个Awesome合集，常见的资料这里面都能找到
+1. Awesome:
+    > 这是个Awesome合集，常见的资料这里面都能找到
 
-1. Awesome2: 
-> 类似第一个Awesome
+1. Awesome2:
+    > 类似第一个Awesome
+
 1. 杂七杂八、有用没用的Awesome合集
 1. 非常不错的语言类学习资料集合：
     * Awesomeness
     * awesome-ios-ui
     * awesome-android-ui
-    * Awesome-MaterialDesign  
+    * Awesome-MaterialDesign
     * awesome-public-datasets
     * awesome-AppSec(系统安全)
     * awesome-datascience
@@ -375,7 +376,7 @@
 | http_load:                                                | 程序非常小，解压后也不到100K                                                         |
 | webbench:                                                 | 是Linux下的一个网站压力测试工具，最多可以模拟3万个并发连接去测试网站的负载能力。                              |
 | Siege:                                                    | 一款开源的压力测试工具，可以根据配置对一个WEB站点进行多用户的并发访问，记录每个用户所有请求过程的相应时间，并在一定数量的并发访问下重复进行。 |
-| squid（前端缓存），nginx（负载），nodejs（没错它也可以，自己写点代码就能实现高性能的负载均衡器）： | 常用的负载均衡器                                                                 |
+| 常用的负载均衡器： | squid（前端缓存），nginx（负载），nodejs（没错它也可以，自己写点代码就能实现高性能的负载均衡器）|
 | Piwik：                                                    | 开源网站访问量统计系统                                                              |
 | ClickHeat：                                                | 开源的网站点击情况热力图                                                             |
 | HAProxy：                                                  | 高性能TCP /HTTP负载均衡器                                                        |
@@ -491,13 +492,12 @@
 <a href='#目录'>返回目录</a>
 
 1. Scala Standard Library API
-1. Scala School!: 
-> A Scala tutorial by Twitter
-
+1. Scala School!:
+    > A Scala tutorial by Twitter
 1. A Tour of Scala:
-> Tutorial introducing the main concepts of Scala
+    > Tutorial introducing the main concepts of Scala
 1. Scala Overview on StackOverflow:
-> A list of useful questions sorted by topic
+    > A list of useful questions sorted by topic
 1. Programming in Scala，最新的第3版，还没有电子版，电子版是第一版
 1. 《Scala for the Impatient》
 1. 《Scala in Depth》
@@ -505,10 +505,10 @@
 1. Scala By Example
 1. Scala Cheatsheet学习模式匹配的好资料
 1. Glossary of Scala and FP terms
-1. Metascala: 
-> A JVM written in Scala
-1. LMS: 
-> Program Generation and Embedded Compilers in Scala
+1. Metascala:
+    > A JVM written in Scala
+1. LMS:
+    > Program Generation and Embedded Compilers in Scala
 
 ### Java
 <a href='#目录'>返回目录</a>
@@ -690,3 +690,5 @@
 | 环形缓冲区,                   | 实时数据传输用                                                                               |
 | SDL,ffmpeg,live555,Speex | x                                                                                     |
 | Red5:                    | 用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。 |
+
+
