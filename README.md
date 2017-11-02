@@ -50,7 +50,7 @@
         * <a href='#rtp实时传输协议与音视频'>RTP,实时传输协议与音视频</a>
 * <a href='#算法篇'>算法篇</a>
    * <a href='#sat'>SAT</a>
-        * <a href='#DPLL'>DPLL</a>
+        * <a href='#dpll'>DPLL</a>
 
 # 资料篇
 
