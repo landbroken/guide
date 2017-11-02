@@ -49,7 +49,7 @@
         * <a href='#日志聚合分布式日志收集'>日志聚合，分布式日志收集</a>
         * <a href='#rtp实时传输协议与音视频'>RTP,实时传输协议与音视频</a>
 * <a href='#算法篇'>算法篇</a>
-   * <a href='#sat'>SAT Solving</a>
+   * <a href='#sat'>SAT</a>
         * <a href='#DPLL'>DPLL</a>
 
 # 资料篇
@@ -695,8 +695,9 @@
 | Red5:                    | 用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。 |
 
 # 算法篇
+<a href='#目录'>返回目录</a>
 
-## SAT Solving
+## SAT
 
 ### DPLL
 
